@@ -34,3 +34,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# barnacle specific
+*.yml
+barnacles/conf/config.yml
+*.csv
+
+# pycharm specific
+.idea
